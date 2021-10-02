@@ -225,7 +225,7 @@ function App() {
               </Typography>
             </Box>
 
-            <Box className={classes.box}>
+            <Box>
               <Typography variant="body2">
                 <strong>Keywords:</strong> {keywords}
               </Typography>
